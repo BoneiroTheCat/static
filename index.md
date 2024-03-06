@@ -8,7 +8,8 @@ Hello World Script
     hello();
 
 My TV **is not** working!! >:((
-![Noise](noise.webp "Noise for you")
+
+![Noise](noise-animated.webp "Noise for you")
 
 **Never trust the obsfucated script**
 
